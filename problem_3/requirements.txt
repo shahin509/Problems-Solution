@@ -1,0 +1,6 @@
+django
+numpy==1.23.5 
+pandas
+Pillow==9.4.0
+opencv-python==4.10.0.84 
+opencv-python-headless 
